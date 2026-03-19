@@ -1,0 +1,18 @@
+{
+	"ulid": "01KM3D585GK344NYS0CVEPA0FD",
+	"minTime": 1773925157277,
+	"maxTime": 1773928800000,
+	"stats": {
+		"numSamples": 2869,
+		"numFloatSamples": 2869,
+		"numSeries": 797,
+		"numChunks": 797
+	},
+	"compaction": {
+		"level": 1,
+		"sources": [
+			"01KM3D585GK344NYS0CVEPA0FD"
+		]
+	},
+	"version": 1
+}

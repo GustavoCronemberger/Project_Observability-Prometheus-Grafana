@@ -1,0 +1,18 @@
+{
+	"ulid": "01KM369E3EXEAKG02HZVA81989",
+	"minTime": 1773786342276,
+	"maxTime": 1773792000000,
+	"stats": {
+		"numSamples": 13554,
+		"numFloatSamples": 13554,
+		"numSeries": 792,
+		"numChunks": 792
+	},
+	"compaction": {
+		"level": 1,
+		"sources": [
+			"01KM369E3EXEAKG02HZVA81989"
+		]
+	},
+	"version": 1
+}
