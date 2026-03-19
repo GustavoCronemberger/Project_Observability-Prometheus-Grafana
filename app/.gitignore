@@ -8,6 +8,9 @@ target/
 *.class
 *.log
 
+# Ignorar dados do Prometheus
+prometheus/prometheus_data/
+
 # ==========================================
 # IntelliJ IDEA
 # ==========================================
